@@ -1,0 +1,2 @@
+# hosted-content
+Hosted content
